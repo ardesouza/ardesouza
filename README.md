@@ -9,7 +9,7 @@
     <a href="https://www.discord.com/channels/aleks.rs/" target="_blank"><img title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
 </div>
 
-## About me <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
+## Sobre mim <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
 
 Formado em Análise e Desenvolvimento de Sistemas, com sólida experiência no cargo de Analista de Sistema com mais de 6 anos de experiência. Com foco na otimização de processos e na entrega de soluções eficientes. Minha expertise abrange:
 
@@ -151,7 +151,7 @@ Combinando habilidades técnicas em processos e conhecimento avançado em regras
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardesouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
