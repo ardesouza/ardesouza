@@ -136,7 +136,7 @@ Combinando habilidades técnicas em processos e conhecimento avançado em regras
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -156,3 +156,4 @@ Combinando habilidades técnicas em processos e conhecimento avançado em regras
   />
 
 </p>
+-->
